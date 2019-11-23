@@ -1,0 +1,5 @@
+# Project exclude paths
+/common-parent/edu-dao/target/
+/common-parent/edu-manager/target/
+/common-parent/edu-model/target/
+/common-parent/edu-service/target/
